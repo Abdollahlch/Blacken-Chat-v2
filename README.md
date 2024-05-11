@@ -1,4 +1,5 @@
-*Simple Chat Application*
+#Simple Chat Application
+
 Simple Chat Application is a basic chat application developed using C# and .NET. It allows users to communicate with each other via text messages in real-time. The application has a user-friendly interface with features for sending and receiving messages, as well as displaying conversation history.
 
 Features
