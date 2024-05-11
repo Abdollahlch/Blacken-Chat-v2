@@ -9,10 +9,15 @@ Conversation history: View previous messages exchanged in the chat.
 Simple authentication: Basic login system to identify users.
 ## How to Use
 Launch the application.
+
 Enter your username and password to log in.
+
 Start sending and receiving messages with other users.
+
 View conversation history to see previous messages.
+
 Log out when done using the application.
+
 ## Technologies Used
 C# programming language
 .NET Framework for development
