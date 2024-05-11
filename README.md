@@ -12,7 +12,11 @@ Conversation history: View previous messages exchanged in the chat.
 Simple authentication: Basic login system to identify users.
 
 ## How to Use
-Launch the application.
+Install Sql server.
+
+restore ChatApp database.
+
+Launch the application from Visual studio (or your IDE).
 
 Enter your username and password to log in.
 
