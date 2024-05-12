@@ -49,6 +49,6 @@ Customization options for user profiles and chat settings.
 Feel free to contribute to this project by providing feedback, suggesting new features, or submitting pull requests.
 
 
-## Contact: lchgerprof@gmail.com
+
 
 Happy chatting! 😊
